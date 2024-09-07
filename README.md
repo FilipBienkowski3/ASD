@@ -1,1 +1,1 @@
-#ASD - Algorytmy i struktury danych
+# ASD - Algorytmy i struktury danych
